@@ -1,5 +1,4 @@
-![image](https://github.com/CarissaCoding/Decode-Item-Logs/assets/160805055/2c505547-5f63-4e97-aa6b-eae0b9b1809e)
-
+![image](https://github.com/CarissaCoding/Decode-Item-Logs/assets/160805055/2c505547-5f63-4e97-aa6b-eae0b9b1809e) ![image](https://github.com/CarissaCoding/Decode-Item-Logs/assets/160805055/2b8e636a-a011-4bc3-b0db-a2ceb30f363d)
 
 # DecodeItemLogs
 DecodeItemLogs is a lightweight Minecraft plugin designed to enhance server administration by providing detailed item usage logs in an easily readable format.
