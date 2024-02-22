@@ -11,7 +11,7 @@ This library is also free for other developers to use.
 
 - [SpigotMC](https://www.spigotmc.org/resources/83189/)
 - [Hangar](https://hangar.papermc.io/SirBlobman/BlueSlimeCore)
-- [Jenkins Beta Builds](https://jenkins.sirblobman.xyz/job/SirBlobman/job/BlueSlimeCore/job/main/)
+- [Jenkins Beta Builds](https://jenkins.carissacoding.xyz/job/CarissaCoding/job/DecodeItemLogs/job/main/)
 
 ### Version Information
 
@@ -53,23 +53,23 @@ We only provide support for tested software and recommended versions.
 
 ## Dependency Information
 
-BlueSlimeCore can also be used as a library in your own plugins.
-Just make sure to install the BlueSlimeCore jar on your server!
+DecodeItemLogs can also be used as a library in your own plugins.
+Just make sure to install the DecodeItemLogs jar on your server!
 
-[Developers Guide / Wiki](https://github.com/SirBlobman/BlueSlimeCore/wiki)
+[Developers Guide / Wiki](https://github.com/CarissaCoding/DecodeItemLogs/wiki)
 
 ### Compilation Instructions
 
 If you wish to compile the plugin yourself, you can run the following commands:
 
 ```shell
-git clone "https://github.com/SirBlobman/BlueSlimeCore.git"
-cd BlueSlimeCore
+git clone "https://github.com/CarissaCoding/DecodeItemLogs.git"
+cd DecodeItemLogs
 ./gradlew clean build
 ```
 
 ### Further Instructions
 
 If you want to review API examples and other information,
-please visit the [wiki](https://github.com/SirBlobman/BlueSlimeCore/wiki/) tab for this project.
+please visit the [wiki](https://github.com/CarissaCoding/DecodeItemLogs/wiki/) tab for this project.
 You can also ask questions on my [Discord](https://discord.gg/XMq2agT) or create an issue on this page.
