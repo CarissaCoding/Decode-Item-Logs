@@ -1,10 +1,10 @@
-# BlueSlimeCore
+# DecodeItemLogs
 ![Jenkins](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.sirblobman.xyz%2Fjob%2FSirBlobman%2Fjob%2FBlueSlimeCore%2Fjob%2Fmain%2F&style=plastic)
 ![Maven Metadata URL](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fnexus.sirblobman.xyz%2Fpublic%2Fcom%2Fgithub%2Fsirblobman%2Fapi%2Fcore%2Fmaven-metadata.xml&style=plastic)
 
 ## Description:
 
-BlueSlimeCore is a library plugin with many features that are necessary for my other plugins.
+DecodeItemLogs is a library plugin with many features that are necessary for  other plugins.
 This library is also free for other developers to use.
 
 ### Downloads
@@ -15,7 +15,7 @@ This library is also free for other developers to use.
 
 ### Version Information
 
-BlueSlimeCore supports Spigot, Paper, and Folia. Custom forks may work, but they are untested. 
+DecodeItemLogs supports Spigot, Paper, and Folia. Custom forks may work, but they are untested. 
 The following table is a list of versions that are included in code. 
 Unsupported versions are planned for removal at a future date.
 
